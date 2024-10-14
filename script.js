@@ -1,4 +1,4 @@
-const apiUrl = 'https://fuseboy123.github.io/pumpbot-backend/'; // URL do seu back-end
+const apiUrl = 'https://pumpbot-backend.vercel.app/'; // URL do seu back-end
 
 const connectButton = document.getElementById('connect-button');
 const walletInfo = document.getElementById('wallet-info');
